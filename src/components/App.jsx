@@ -7,13 +7,21 @@ const modals = [
     title1: "React Introduction",
     text: (
       <div>
-        <a href="https://www.w3schools.com/react/default.asp">React Tutorial</a>
+        <a href="https://www.w3schools.com/react/default.asp" target="_blank">
+          React Tutorial
+        </a>
         <br />
-        <a href="https://www.w3schools.com/react/react_intro.asp">
+        <a
+          href="https://www.w3schools.com/react/react_intro.asp"
+          target="_blank"
+        >
           React Introduction
         </a>
         <br />
-        <a href="https://www.w3schools.com/react/react_getstarted.asp">
+        <a
+          href="https://www.w3schools.com/react/react_getstarted.asp"
+          target="_blank"
+        >
           React Getting Started
         </a>
       </div>
@@ -48,17 +56,28 @@ const modals = [
     title1: "JSX",
     text: (
       <div>
-        <a href="https://www.w3schools.com/react/react_jsx.asp">React JSX</a>
+        <a href="https://www.w3schools.com/react/react_jsx.asp" target="_blank">
+          React JSX
+        </a>
         <br />
-        <a href="https://legacy.reactjs.org/docs/jsx-in-depth.html">
+        <a
+          href="https://legacy.reactjs.org/docs/jsx-in-depth.html"
+          target="_blank"
+        >
           JSX In Depth
         </a>
         <br />
-        <a href="https://react.dev/learn/writing-markup-with-jsx">
+        <a
+          href="https://react.dev/learn/writing-markup-with-jsx"
+          target="_blank"
+        >
           Writing Markup with JSX
         </a>
         <br />
-        <a href="https://react.dev/learn/javascript-in-jsx-with-curly-braces">
+        <a
+          href="https://react.dev/learn/javascript-in-jsx-with-curly-braces"
+          target="_blank"
+        >
           JavaScript in JSX with Curly Braces
         </a>
       </div>
@@ -70,11 +89,14 @@ const modals = [
     title1: "Events",
     text: (
       <div>
-        <a href="https://www.w3schools.com/react/react_events.asp">
+        <a
+          href="https://www.w3schools.com/react/react_events.asp"
+          target="_blank"
+        >
           React Events
         </a>
         <br />
-        <a href="https://react.dev/learn/responding-to-events">
+        <a href="https://react.dev/learn/responding-to-events" target="_blank">
           Responding to Events
         </a>
       </div>
@@ -86,23 +108,39 @@ const modals = [
     title1: "Resources",
     text: (
       <div>
-        <a href="https://react.dev/">React </a>
+        <a href="https://react.dev/" target="_blank">
+          React{" "}
+        </a>
         <br />
-        <a href="https://www.w3schools.com/react/default.asp">React Tutorial</a>
+        <a href="https://www.w3schools.com/react/default.asp" target="_blank">
+          React Tutorial
+        </a>
         <br />
-        <a href="https://www.taniarascia.com/react-architecture-directory-structure/">
+        <a
+          href="https://www.taniarascia.com/react-architecture-directory-structure/"
+          target="_blank"
+        >
           React Architecture: How to Structure and Organize a React Application
         </a>
         <br />
-        <a href="https://kentcdodds.com/blog/javascript-to-know-for-react">
+        <a
+          href="https://kentcdodds.com/blog/javascript-to-know-for-react"
+          target="_blank"
+        >
           JavaScript to Know for React
         </a>
         <br />
-        <a href="https://www.freecodecamp.org/news/javascript-skills-you-need-for-react-practical-examples/">
+        <a
+          href="https://www.freecodecamp.org/news/javascript-skills-you-need-for-react-practical-examples/"
+          target="_blank"
+        >
           The JavaScript Skills You Need For React (+ Practical Examples)
         </a>
         <br />
-        <a href="https://www.w3schools.com/react/react_class.asp">
+        <a
+          href="https://www.w3schools.com/react/react_class.asp"
+          target="_blank"
+        >
           React Class Components
         </a>
       </div>
