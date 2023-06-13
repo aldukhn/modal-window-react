@@ -41,6 +41,12 @@
       top: 15px;
       border: none;
       border-radius: 1.2rem;
+
+      &:hover {
+        transform: scale(1.1);
+        color: #000;
+        background: rgba(228, 53, 53, 0.63);
+      }
     }
   }
 
